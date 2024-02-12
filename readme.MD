@@ -38,7 +38,7 @@ https://openai.com/research/whisper
 
 Advantages : 
 1. It requires less processing power from the device you use.
-2. It has a stable results
+2. It has a stable result.
 
 #### option 2 Whisper-timestamped
 Please see fine-tuned versions of Whisper and their via the link below
