@@ -22,6 +22,10 @@ Make sure each time the videos are played, the original creators can benefit fro
 
 The materials generated from the programming are considered as **commentaries**.
 
+### Tutorials
+This project is based on an old tutorial I made, you can also check this one out
+https://colab.research.google.com/drive/1Dc6-vWM4POstyV2PR_hh62vnyHtSsSDb#scrollTo=-OPzjAyq8_8u
+
 ## Project Breakdown
 
 ### part 1 Get The Source
