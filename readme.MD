@@ -53,7 +53,7 @@ Advantages :
 1. This method can offer transcription of the audio with timestamps.
 2. More model choices.
 
-#### Part 3 Use ChatGPT to Generate Learning Materials
+### Part 3 Use ChatGPT to Generate Learning Materials
 Please check out OpenAI API product page for more information
 
 https://openai.com/product
