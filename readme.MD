@@ -1,4 +1,4 @@
-# Brent's AI language School Project
+# Brent's AI Language School Project
 ## Introduction
 This is a project developed by me, Brent Wong([Linkedin Profile](https://www.linkedin.com/in/mingqianwangbrent987614198/))
 
