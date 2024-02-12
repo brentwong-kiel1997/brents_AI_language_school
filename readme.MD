@@ -3,6 +3,7 @@
 This is a project developed by me, Brent Wong([Linkedin Profile](https://www.linkedin.com/in/mingqianwangbrent987614198/))
 
 The main purpose of this project is to use AI to make learning materials based on short news reports from YouTube.
+For more detailed information, please look at the project breakdown section.
 
 ### Collaboration
 If you like to discuss collaboration, please contact me via email [brentwang1997@gmail.com](brentwang1997@gmail.com).
